@@ -12,6 +12,7 @@
 - **Tiling WM:** [FancyWm](https://github.com/FancyWM/fancywm)
 - **Fetch:** [Winfetch](https://github.com/lptstr/winfetch)
 - **Code editor/IDE:** [Vscode](https://github.com/microsoft/vscode)
+- **Package Manager:** [Scoop](scoop.sh)
 
 ## Desktop atm
 <br><img width="800-" align="center" src="https://github.com/Welpyes/dotfiles-windows/blob/yasb-tauri-rice/.readme-resource/desktop.png">
@@ -23,6 +24,8 @@ First off you can git clone this repo to get all the configs and stuff
 ```
 git clone https://github.com/Welpyes/dotfiles-windows
 ```
-then install the packages in 
+and copy the `.config` folder to `$USERPROFILE` or your home directory<br>
+then install the packages in listed [infos](https://github.com/Welpyes/dotfiles-windows?tab=readme-ov-file#info)<br>
+I recommend using [scoop](scoop.sh) to install packages for an easier time
 
 </details>
